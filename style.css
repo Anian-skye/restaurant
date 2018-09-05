@@ -1,0 +1,68 @@
+img{
+    width:100px;
+    height:100px;
+    display: block;
+    margin-left:200px;
+}
+
+#customer,#cook{
+    float: left;
+}
+#waiter{
+    clear: both;
+}
+
+#cuscoo{
+    margin:100px 100px;
+}
+#cook{
+    margin-left: 200px;
+}
+
+#waiter{
+    margin-left:100px;
+}
+
+#cookStatus{
+    width:300px;
+    height:50px;
+    border: 1px solid #cdd7e6;
+}
+
+#customers div.menu{
+    width:250px;
+    height:50px;
+    border:1px solid #cdd7e6;
+}
+#customers div.eatStatus{
+    width:250px;
+    height:200px;
+    border: 1px solid #cdd7e6;
+}
+
+#waiterMess{
+    width:100px;
+    height:100px;
+    border: 1px solid #cdd7e6;
+}
+
+#customers div.customer{
+    float: left;
+}
+
+
+#cookMission{
+    width:199px;
+    height:200px;
+    border: 1px solid #cdd7e6;
+}
+
+#cookImg{
+    display: inline-block;
+}
+
+
+
+
+
+
